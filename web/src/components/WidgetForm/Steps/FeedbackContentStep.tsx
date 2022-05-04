@@ -1,3 +1,4 @@
+import { ArrowLeft } from 'phosphor-react';
 import { FeedbackType, feedbackTypes } from '..';
 import { CloseButton } from '../../CloseButton';
 
