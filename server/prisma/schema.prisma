@@ -1,5 +1,3 @@
-//criando tabela de banco de dados, comando:npx prisma migrate dev 
-
 generator client {
   provider = "prisma-client-js"
 }

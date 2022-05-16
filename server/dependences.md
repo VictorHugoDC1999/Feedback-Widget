@@ -18,3 +18,8 @@
 - Prisma/Client
   -comando:
   npm i @prisma/client
+
+  - criando tabela de bd
+
+    -comando:
+    npx prisma migrate dev
