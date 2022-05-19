@@ -23,3 +23,10 @@
 
     -comando:
     npx prisma migrate dev
+
+- nodemailer, para envio de e-mails
+  - comando:
+  npm install nodemailer
+  - corrigindo erro do express
+    - comando:
+    npm install @types/nodemailer -D
