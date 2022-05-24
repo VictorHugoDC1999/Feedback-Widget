@@ -22,11 +22,24 @@
   - criando tabela de bd
 
     -comando:
+    npx prisma init
     npx prisma migrate dev
 
 - nodemailer, para envio de e-mails
+
   - comando:
-  npm install nodemailer
+    npm install nodemailer
   - corrigindo erro do express
     - comando:
-    npm install @types/nodemailer -D
+      npm install @types/nodemailer -D
+
+- Jest
+  - comando:
+    npm install jest -D
+    npx jest --init
+    npm install ts-node -D
+
+SWC Jest
+  - comando:
+  npm i -D jest @swc/jest
+  npm i @types/jest -D
