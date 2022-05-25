@@ -34,12 +34,19 @@
       npm install @types/nodemailer -D
 
 - Jest
+
   - comando:
     npm install jest -D
     npx jest --init
     npm install ts-node -D
 
-SWC Jest
+- SWC Jest
+
   - comando:
-  npm i -D jest @swc/jest
-  npm i @types/jest -D
+    npm i -D jest @swc/jest
+    npm i @types/jest -D
+
+- Cors
+  - comando:
+    npm i cors
+    npm i @types/cors -D
