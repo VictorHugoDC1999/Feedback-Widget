@@ -31,5 +31,10 @@
     expo install react-native-reanimated
 
 - Gesture-handler
+
   - comando:
     expo install react-native-gesture-handler
+
+- React Native View Shot
+  - comando:
+    expo install react-native-view-shot
