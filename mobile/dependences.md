@@ -38,3 +38,7 @@
 - React Native View Shot
   - comando:
     expo install react-native-view-shot
+
+- Axios
+  comando:
+    npm install axios
