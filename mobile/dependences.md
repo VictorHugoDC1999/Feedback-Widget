@@ -42,3 +42,7 @@
 - Axios
   comando:
     npm install axios
+
+- Expo File System
+  comando:
+    expo install expo-file-system
