@@ -29,4 +29,7 @@
   - depois modificar o arquivo tailwind.config.js
 
 - html2canvas
-- comando: npm install html2canvas
+  - comando: npm install html2canvas
+
+- Axios
+  - comando: npm install axios
