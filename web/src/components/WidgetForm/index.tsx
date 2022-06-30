@@ -63,7 +63,7 @@ export function WidgetForm() {
       )}
 
       <footer>
-      Feito com ♥ por<a className="underline underline-offset-2">Victor</a>
+      Feito com ♥ por <a className="underline underline-offset-2">Victor</a>
       </footer>
     </div>
   );
